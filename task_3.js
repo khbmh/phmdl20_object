@@ -1,7 +1,7 @@
 /*
 
 Display the physics marks as output.
-
+*/
 const student = {
     name: "Hamim Sakep",
     id: 5421,
@@ -12,4 +12,4 @@ const student = {
     }
 };
 
-*/
+console.log(student.physics.marks)
